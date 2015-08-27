@@ -2,8 +2,10 @@
 
 // Setup:  screen size. //
 void setup() {
-  size(200, 200);                // Try changing the width & height.
+  size(   200, 200    );                // Try changing the width & height.
 }
+
+// Addes some spaces to size function call, above.
 
 // Next frame:  circle at (x,y). //
 void draw() {
